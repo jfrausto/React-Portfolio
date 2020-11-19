@@ -1,18 +1,18 @@
 import React from 'react'
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Header from "./components/Header";
-// import NavigationTabs from "./components/NavigationTabs";
+// import Header from "./components/Header";
+import NavigationTabs from "./components/NavigationTabs";
 
 import './App.css';
 
 function App() {
   return (
     // <Router>
-      <div className="App">
+      <div className="App container-fluid">
         {/* Header component */}
-        <Header />
+        {/* <Header /> */}
         {/*  Navigation Component */}
-
+        <NavigationTabs />
         {/* 
         <Route exact path="/" component={About} />
         <Route exact path="/about" component={About} />
