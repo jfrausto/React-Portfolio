@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d0390c23.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.b7cd4e4e.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.b7cd4e4e.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.d23a13e1.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.d23a13e1.js.map",
+    "static/js/2.126ec664.chunk.js": "/React-Portfolio/static/js/2.126ec664.chunk.js",
+    "static/js/2.126ec664.chunk.js.map": "/React-Portfolio/static/js/2.126ec664.chunk.js.map",
+    "static/js/3.c8226ff3.chunk.js": "/React-Portfolio/static/js/3.c8226ff3.chunk.js",
+    "static/js/3.c8226ff3.chunk.js.map": "/React-Portfolio/static/js/3.c8226ff3.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.d0390c23.chunk.css.map": "/React-Portfolio/static/css/main.d0390c23.chunk.css.map",
+    "static/js/2.126ec664.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.126ec664.chunk.js.LICENSE.txt",
+    "static/media/burger-app-full.c16ad2e8.PNG": "/React-Portfolio/static/media/burger-app-full.c16ad2e8.PNG",
+    "static/media/day_planner.ad56d061.PNG": "/React-Portfolio/static/media/day_planner.ad56d061.PNG",
+    "static/media/jesse_shopped_cropped.106296fb.jpg": "/React-Portfolio/static/media/jesse_shopped_cropped.106296fb.jpg",
+    "static/media/learning-squads-full.3c3b1a7b.PNG": "/React-Portfolio/static/media/learning-squads-full.3c3b1a7b.PNG",
+    "static/media/pub-crawl-generator-full.49368c59.PNG": "/React-Portfolio/static/media/pub-crawl-generator-full.49368c59.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d23a13e1.js",
+    "static/js/2.126ec664.chunk.js",
+    "static/css/main.d0390c23.chunk.css",
+    "static/js/main.b7cd4e4e.chunk.js"
+  ]
+}
