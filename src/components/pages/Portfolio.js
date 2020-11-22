@@ -1,4 +1,8 @@
 import React from 'react';
+import Burger from "../images/burger-app-full.PNG";
+import Planner from "../images/day_planner.PNG";
+import Squads from "../images/learning-squads-full.PNG";
+import PubCrawl from "../images/pub-crawl-generator-full.PNG";
 
 export default function Portfolio() {
     return (
@@ -18,7 +22,7 @@ export default function Portfolio() {
                         target="_blank" rel="noreferrer"
                         ><img
                         className="card-img-top"
-                        src="./assets/images/burger-app-full.PNG"
+                        src={Burger}
                         alt="burger database"
                         />
                     </a>
@@ -40,7 +44,7 @@ export default function Portfolio() {
                         target="_blank" rel="noreferrer"
                         ><img
                         className="card-img-top"
-                        src="./assets/images/learning-squads-full.PNG"
+                        src={Squads}
                         alt="pick your trial and squad view"
                         />
                     </a>
@@ -63,7 +67,7 @@ export default function Portfolio() {
                     <a href="https://jfrausto.github.io/Day-Planner/" target="_blank" rel="noreferrer"
                         ><img
                         className="card-img-top"
-                        src="./assets/images/day_planner.PNG"
+                        src={Planner}
                         alt="day planner layout"
                         />
                     </a>
@@ -83,7 +87,7 @@ export default function Portfolio() {
                         target="_blank" rel="noreferrer"
                         ><img
                         className="card-img-top"
-                        src="./assets/images/pub-crawl-generator-full.PNG"
+                        src={PubCrawl}
                         alt="pub crawl generator layout"
                         />
                     </a>

@@ -1,4 +1,5 @@
 import React from 'react';
+import Me from "../images/jesse_shopped_cropped.jpg";
 
 export default function About() {
     return (
@@ -12,7 +13,7 @@ export default function About() {
                         <figure>
                             <img
                             className="img-fluid mx-auto"
-                            src="./assets/images/jesse_shopped_cropped.jpg"
+                            src={Me}
                             alt="It's me Jesse!"
                             />
                         </figure>
