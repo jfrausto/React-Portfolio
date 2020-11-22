@@ -16,6 +16,7 @@ body {
   color: rgb(255, 235, 235);
   border-bottom: solid 2px crimson;
   border-top: solid 2px crimson;
+  text-align: center;
 }
 .custom-main {
   /* border-top-width: 2px;
@@ -30,7 +31,22 @@ body {
   font-size: 16px;
   text-align: center;
 }
+.color-back {
+  background-color: crimson;
+  border: solid 2px black;
+  border-radius: 10%;
+  transition: all ease 0.4s;
+}
+.color-back:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+  filter: drop-shadow(2px 2px 2px crimson);
+}
 
+.color-back:active {
+  transform: scale(1.1);
+  transform: translateY(3px);
+}
 .img-fluid {
   display: block;
   max-width: 75%;
